@@ -1,0 +1,38 @@
+{
+  "name": "siwi-file",
+  "version": "1.0.0",
+  "description": "file download for nodejs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -t 30000 test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwilizhao/siwi-file.git"
+  },
+  "keywords": [
+    "wait",
+    "sleep",
+    "siwi-sleep",
+    "siwi",
+    "siwilizhao"
+  ],
+  "author": "siwilizhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siwilizhao/siwi-file/issues"
+  },
+  "homepage": "https://github.com/siwilizhao/siwi-file#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "siwi-mkdirs": "^1.0.0"
+  }
+}
