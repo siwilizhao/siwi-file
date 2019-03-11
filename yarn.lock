@@ -184,6 +184,11 @@ pathval@^1.1.0:
   resolved "https://registry.yarnpkg.com/pathval/-/pathval-1.1.0.tgz#b942e6d4bde653005ef6b71361def8727d0645e0"
   integrity sha1-uULm1L3mUwBe9rcTYd74cn0GReA=
 
+progress@^2.0.3:
+  version "2.0.3"
+  resolved "http://registry.npm.taobao.org/progress/download/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
+  integrity sha1-foz42PW48jnBvGi+tOt4Vn1XLvg=
+
 siwi-mkdirs@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/siwi-mkdirs/-/siwi-mkdirs-1.0.0.tgz#88e93b96e20e2294c46e63878f18ae2b54ea623b"

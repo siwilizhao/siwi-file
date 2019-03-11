@@ -33,6 +33,7 @@
     "typescript": "^3.3.3"
   },
   "dependencies": {
+    "progress": "^2.0.3",
     "siwi-mkdirs": "^1.0.0"
   }
 }
