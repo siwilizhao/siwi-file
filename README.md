@@ -21,6 +21,13 @@ file download for nodejs
 
 # Example
 
+```shell
+node test.js
+```
+
+![siwi-file-demo](images/siwi-file-demo.gif)
+## Test
+
 ```js
 const expect = require('chai').expect
 describe('siwi-file.js', () => {
