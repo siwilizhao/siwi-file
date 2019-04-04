@@ -5,21 +5,18 @@
 
 # siwi-file
 file download for nodejs
-# install
 
-## use npm 
+## install
 
-` npm install siwi-file`
+### use npm
 
-## use yarn
+`npm install siwi-file`
 
-` yarn add siwi-file`
+### use yarn
 
-# test
+`yarn add siwi-file`
 
-`npm test`
-
-# Example
+## Example
 
 > code example download nodejs pkg
 
@@ -45,7 +42,10 @@ node test.js
 ```
 
 ![siwi-file-demo](images/siwi-file-demo.gif)
+
 ## Test
+
+> npm test
 
 ```js
 const expect = require('chai').expect
